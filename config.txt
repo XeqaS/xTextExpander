@@ -1,0 +1,35 @@
+# Text Expander - konfiguracja
+# Format: skrót=tekst
+# Użyj {Enter} dla nowej linii
+
+[Podstawowe skróty]
+dzd=dzień dobry
+dzki=dziękuję
+pzd=pozdrawiam
+mp=mam pytanie
+zp=Z poważaniem
+ps=pozdrowienia
+cz=Cześć
+
+[Dane kontaktowe]
+@m=forleadspl@gmail.com
+tel=997 997 997
+adr=ul. Przykładowa 1/2+{Enter}00-001 Warszawa
+
+[Szablony wiadomości]
+wiad=Szanowni Państwo,+{Enter}+{Enter}Dziękuję za kontakt w sprawie...+{Enter}+{Enter}Z poważaniem+{Enter}Imię Nazwisko
+podpis=Z poważaniem+{Enter}Imię Nazwisko+{Enter}tel: +48-123-456-789
+sp=Szanowni Państwo,+{Enter}+{Enter}
+
+[Emotikony]
+:)=🙂
+xD=😆
+<3=❤
+:D=😃
+:P=😛
+:*=😘
+
+; Skróty dynamiczne (wbudowane):
+; [data] - aktualna data
+; [czas] - aktualny czas
+; [dt] - data i czas
